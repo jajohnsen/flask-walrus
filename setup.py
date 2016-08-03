@@ -17,7 +17,7 @@ setup(
     download_url='https://github.com/jajohnsen/flask-walrus/releases',
     description='Walrus (redis) extension for Flask Applications',
     long_description=README,
-    packages=['flask_redis'],
+    packages=['flask_walrus'],
     package_data={'': ['LICENSE']},
     zip_safe=False,
     install_requires=[
